@@ -1,0 +1,7 @@
+url = "https://www.orangehrm.com/"
+browser = "chrome"
+email = "malleswari.c252@gmail.com"
+username = "malleswari"
+full_name = "chagalakondu malleswari"
+contact = "9182******"
+country_code = "India"
